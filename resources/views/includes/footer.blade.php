@@ -1,90 +1,52 @@
-<!-- Footer -->
-<footer class="bg-off-white footer">
-    <div class="footer-lower bg-blue position-relative">
-        <div class="container">
-            <div class="footer-copyright-text footer-copyright-text-white">
-                <p>Copyright ©2023 Erudex. Designed & Developed By <span style="color:blue;font-weight:bold">Erudex Team</span></a></p>
+<!-- Footer Area Start -->
+<footer class="footer-section">
+    <div class="container pt-120">
+        <div class="footer-bottom-area pt-120">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="menu-item">
+                        <a href="#" class="logo">
+                            <img src="{{ asset('images/logo-text.png') }}" alt="logo">
+                        </a>
+                        <ul class="footer-link">
+                            <li><a href="#">Contact</a></li>
+                            <li><a href="#">Terms of Services</a></li>
+                            <li><a href="#">Privacy</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <div class="copyright">
+                        <div class="copy-area">
+                            <p> Copyright © <a href="#">BET AI</a> | Designed by
+                                <a href="#" class="auth">BET AI TEAM</a>
+                            </p>
+                        </div>
+                        <div class="social-link d-flex align-items-center">
+                            <a href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a>
+                            <a href="javascript:void(0)"><i class="fab fa-twitter"></i></a>
+                            <a href="javascript:void(0)"><i class="fab fa-linkedin-in"></i></a>
+                            <a href="javascript:void(0)"><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
 </footer>
-<!-- Footer -->
+<!-- Footer Area End -->
 
-<!-- Scroll-top -->
-<div class="scroll-top" id="scrolltop">
-    <div class="scroll-top-inner">
-        <i class="icofont-long-arrow-up"></i>
-    </div>
-</div>
-<!-- Scroll-top -->
-
-<!-- Topbar-side-modal -->
-<div class="side-modal-wrapper">
-    <div class="side-modal">
-        <div class="side-modal-header">
-            <div class="side-modal-logo">
-                <a href="#"><img src="{{ asset('images/logo.png') }}" alt="logo"></a>
-            </div>
-            <div class="side-modal-close">
-                <i class="icofont-close"></i>
-            </div>
-        </div>
-        <div class="side-modal-body">
-            <div class="sidebar-info-content">
-                <h3>Follow Us</h3>
-                <ul class="social-list">
-                    <li>
-                        <a href="https://twitter.com/ErudexAI" target="_blank"><i class="icofont-twitter"></i></a>
-                    </li>
-                    <li>
-                        <a href="https://t.me/ErudexAiPortal" target="_blank"><i class="icofont-paper-plane"></i></a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Topbar-side-modal -->
-
-<!-- Search-overlay -->
-<div class="search-overlay">
-    <div class="search-close">
-        <i class="icofont-close"></i>
-    </div>
-    <div class="search-form-area">
-        <div class="search-area-logo">
-            <a href="#">
-                <img src="{{ asset('images/logo-white.png') }}" alt="logo">
-            </a>
-        </div>
-        <form>
-            <div class="form-group search-form-group">
-                <input type="text" placeholder="Search..." class="form-control" autofocus="autofocus">
-                <button>
-                    <i class="icofont-search-1"></i>
-                </button>
-            </div>
-        </form>
-    </div>
-</div>
-<!-- Search-overlay -->
-
-<!-- essential js -->
-<script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="{{ asset('/js/jquery.min.js') }}"></script>
-<script src="{{ asset('/js/bootstrap.bundle.min.js') }}"></script>
-<!-- magnific popup js -->
-<script src="{{ asset('/js/jquery.magnific-popup.min.js') }}"></script>
-<!-- owl carousel js -->
-<script src="{{ asset('/js/owl.carousel.min.js') }}"></script>
-<!-- nice select js -->
-<script src="{{ asset('/js/jquery.nice-select.min.js') }}"></script>
-<!-- form ajazchimp js -->
-<script src="{{ asset('/js/jquery.ajaxchimp.min.js') }}"></script>
-<!-- form validator js  -->
-<script src="{{ asset('/js/form-validator.min.js') }}"></script>
-<!-- contact form js -->
-<script src="{{ asset('/js/contact-form-script.js') }}"></script>
-<!-- meanmenu js -->
-<script src="{{ asset('/js/jquery.meanmenu.min.js') }}"></script>
-<!-- main js -->
-<script src="{{ asset('/js/script.js') }}"></script>
+<!--==================================================================-->
+<script src="{{ asset('js/jquery.min.js') }}"></script>
+<script src="{{ asset('js/jquery-ui.js') }}"></script>
+<script src="{{ asset('js/bootstrap.min.js') }}"></script>
+<script src="{{ asset('js/fontawesome.js') }}"></script>
+<script src="{{ asset('js/plugin/slick.js') }}"></script>
+<script src="{{ asset('js/plugin/jquery.nice-select.min.js') }}"></script>
+<script src="{{ asset('js/plugin/jquery.downCount.js') }}"></script>
+<script src="{{ asset('js/plugin/counter.js') }}"></script>
+<script src="{{ asset('js/plugin/waypoint.min.js') }}"></script>
+<script src="{{ asset('js/plugin/jquery.magnific-popup.min.js') }}"></script>
+<script src="{{ asset('js/plugin/wow.min.js') }}"></script>
+<script src="{{ asset('js/plugin/plugin.js') }}"></script>
+<script src="{{ asset('js/main.js') }}"></script>

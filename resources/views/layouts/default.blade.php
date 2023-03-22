@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en-US" class="no-js no-svg">
+<html lang="en">
   <head>
      @include('includes.head')
   </head>
