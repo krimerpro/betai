@@ -31,7 +31,7 @@
                                 </span>
 
                                 <span class="btn-border">
-                                    <a href="https://www.dextools.io/app/en/ether/pair-explorer/0x28047149ad401cc0efc7a96aa9f316ac246c87f0" class="cmn-btn reg" target="_blank">CHART</a>
+                                    <a href="https://poocoin.app/tokens/" class="cmn-btn reg" target="_blank">CHART</a>
                                 </span>
                             </div>
                         </div>
