@@ -3,11 +3,11 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<meta name="description" content="BET AI | ONLINE BETTING ON SMART CHAIN">
-<meta name="keywords" content="ai, bet, betai, online, smartchain, machinelearning, blockchain, cryptocurrency, bsc">
+<meta name="description" content="BET AI | ONLINE BETTING ON ETHEREUM">
+<meta name="keywords" content="ai, bet, betai, online, ethereum, machinelearning, blockchain, cryptocurrency, erc20">
 <meta name="author" content="BETAI">
 
-<title>BET AI | ONLINE BETTING ON SMART CHAIN</title>
+<title>BET AI | ONLINE BETTING ON ETHEREUM</title>
 <link rel="icon" type="image/x-icon" href="{{ asset('images/logo.png') }}" sizes="16x16">
 
 <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}">
