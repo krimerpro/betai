@@ -60,7 +60,7 @@
                             <img src="{{ asset('images/icon/counter-icon-2.png') }}" alt="image">
                         </div>
                         <div class="text-area">
-                            <h3 class="m-none"><span class="counter">5</span>%</h3>
+                            <h3 class="m-none"><span class="counter">2</span>%</h3>
                             <p>Tax</p>
                         </div>
                     </div>
