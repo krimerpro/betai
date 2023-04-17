@@ -31,7 +31,7 @@
                                 </span>
 
                                 <span class="btn-border">
-                                    <a href="https://poocoin.app/tokens/" class="cmn-btn reg" target="_blank">CHART</a>
+                                    <a href="https://poocoin.app/tokens/0x7b6bF3809Fe954253e73f6647840bAf05Bc9ed99" class="cmn-btn reg" target="_blank">CHART</a>
                                 </span>
                             </div>
                         </div>
